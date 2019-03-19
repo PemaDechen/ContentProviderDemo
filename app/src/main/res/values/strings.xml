@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ContentProviderDemo</string>
+    <string-array name="Pema">
+        <item>Hello</item>
+        <item>World</item>
+        <item>This</item>
+        <item>is</item>
+        <item>Pema</item>
+
+
+    </string-array>
+
+</resources>
